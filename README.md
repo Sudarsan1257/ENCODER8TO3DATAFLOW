@@ -1,14 +1,14 @@
 ### ENCODER 8TO3 DATAFLOW Modelling
 
-**AIM:**
+###AIM:###
 
 To implement  Encoder 8 To 3 in Dataflow Modelling using verilog and validating their functionality using their functional tables
 
-**SOFTWARE REQUIRED:** Quartus prime
+###SOFTWARE REQUIRED:### Quartus prime
 
-**THEORY**
+###THEORY###
 
-**Encoder 8 To 3**
+###Encoder 8 To 3###
 
 The 8 to 3 line Encoder is also known as Octal to Binary Encoder. In 8 to 3 line encoder, there is a total of eight inputs, i.e., D0, D1, D2, D3, D4, D5, D6, and D7 and three outputs, i.e., A0, A1, and A2. In 8-input lines, one input-line is set to true at a time to get the respective binary code in the output side. Below are the block diagram and the truth table of the 8 to 3 line encoder.
 
@@ -16,7 +16,7 @@ The 8 to 3 line Encoder is also known as Octal to Binary Encoder. In 8 to 3 line
 
 Figure 01  Block Diagram of Encoder 8 * 3
 
-**Truth Table**
+###Truth Table###
 
 ![image](https://github.com/naavaneetha/ENCODER8TO3DATAFLOW/assets/154305477/35496b14-ae6e-4cd1-9abd-d6736b576575)
 
@@ -34,23 +34,23 @@ Logical circuit of the above expressions is given below:
 
 Figure 02  Encoder 8 * 3
 
-**Procedure**
+###Procedure###
 
 /* write all the steps invloved */
 
-**PROGRAM**
+###PROGRAM###
+![Screenshot 2024-12-18 102937](https://github.com/user-attachments/assets/b1a33b5c-aa60-41ab-9572-c5ddc0942f27)
 
-/* Program for Encoder 8 To 3 in Dataflow Modelling and verify its truth table in quartus using Verilog programming. 
 
-Developed by: RegisterNumber:
-*/
+###RTL LOGIC FOR Encoder 8 To 3 in Dataflow Modelling###
+![Screenshot 2024-12-16 144153](https://github.com/user-attachments/assets/902dc644-4044-4d0b-b1d3-946224f80d78)
 
-**RTL LOGIC FOR Encoder 8 To 3 in Dataflow Modelling**
 
-**TIMING DIGRAMS FOR Encoder 8 To 3 in Dataflow Modelling**
+###TIMING DIGRAMS FOR Encoder 8 To 3 in Dataflow Modelling###
+![Screenshot 2024-12-16 145327](https://github.com/user-attachments/assets/c5e01863-d88c-4140-8d6e-7210193c3b8e)
 
-**RESULTS**
-
+###RESULTS###
+ Thus Encoder 8 to 3 designed and truthtable is verified.
 
 
 

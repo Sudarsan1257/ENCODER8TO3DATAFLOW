@@ -1,4 +1,6 @@
-### ENCODER 8TO3 DATAFLOW Modelling
+### NAME:SUDARSAN.A
+### REG NO :24900190
+### EXPNO 5:ENCODER 8TO3 DATAFLOW Modelling
 
 ### AIM: ###
 
@@ -36,7 +38,15 @@ Figure 02  Encoder 8 * 3
 
 ### Procedure ###
 
-/* write all the steps invloved */
+Type the program in Quartus software.
+
+Compile and run the program.
+
+Generate the RTL schematic and save the logic diagram.
+
+Create nodes for inputs and outputs to generate the timing diagram.
+
+For different input combinations generate the timing diagram
 
 ### PROGRAM ###
 ![Screenshot 2024-12-18 102937](https://github.com/user-attachments/assets/b1a33b5c-aa60-41ab-9572-c5ddc0942f27)
